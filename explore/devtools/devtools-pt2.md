@@ -1,0 +1,2 @@
+1. Function does not work as expected because input1 and input2 are both string which means when we called addition on two strings, they will concatenate together rather than perform addition on value.
+2. we can just change input1 and input2 into value of type int.
